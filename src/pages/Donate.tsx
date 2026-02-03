@@ -160,7 +160,8 @@ export function Donate() {
               Your donation is tax-deductible to the extent allowed by law.
             </p>
             <p className="text-white/50 text-sm mt-2">
-              EIN: XX-XXXXXXX
+              {/* TODO: Replace with actual EIN when 501(c)(3) registration is complete */}
+              EIN: Pending Registration
             </p>
           </div>
         </div>
