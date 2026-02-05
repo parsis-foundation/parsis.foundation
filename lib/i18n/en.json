@@ -1,0 +1,329 @@
+{
+  "site": {
+    "name": "Parsis Foundation",
+    "hrhName": "Parsis Foundation"
+  },
+  "nav": {
+    "biography": "About",
+    "mission": "Mission",
+    "works": "Programs",
+    "family": "Leadership",
+    "initiatives": "Initiatives",
+    "news": "News",
+    "search": "Search",
+    "menu": "Menu"
+  },
+  "hero": {
+    "title": "House of Pahlavi",
+    "name": "Parsis Foundation",
+    "tagline": "Unlocking Human Potential Through Innovation",
+    "description": "A foundation dedicated to advancing education, research, and technology for the benefit of the Persian diaspora and humanity."
+  },
+  "home": {
+    "tagline": "For Iran. For Humanity.",
+    "intro": "Parsis Foundation is a non-profit organization where programs focused on education, research, and innovation intertwine for the benefit of the Persian community and the world.",
+    "quote": "Our future lies in unlocking the most precious resource of all—human potential.",
+    "legacyLabel": "Building for Generations",
+    "legacyTitle": "A Foundation Rooted in Persian Heritage",
+    "legacyText1": "Parsis Foundation was established with a vision for the future development of the Persian diaspora, guided by the enduring values of the House of Pahlavi.",
+    "legacyText2": "Across our ecosystem—supported by partnerships with leading international institutions—we are addressing pressing challenges, creating global impact, and empowering people to shape both the present and the future.",
+    "legacyQuote": "We debate. We discover. We create. We curate. We think. We transform. And we do what we always did best—we unlock human potential.",
+    "exploreLegacy": "Learn More",
+    "valuesLabel": "Our Values",
+    "valuesTitle": "Principles That Guide Us",
+    "valuesDescription": "Excellence, integrity, and innovation form the foundation of everything we do. These values set the standards for our community and guide us in building a better future.",
+    "community": "Excellence",
+    "communityDesc": "Deliver the exceptional to build a prosperous future for us all",
+    "generosity": "Innovation",
+    "generosityDesc": "Take initiative, be curious, and explore beyond boundaries",
+    "inclusivity": "Integrity",
+    "inclusivityDesc": "Be ethical, proactive, and dedicated in everything we do",
+    "latestNews": "Latest",
+    "news": "News",
+    "viewAll": "View All",
+    "readMore": "Read More"
+  },
+  "sections": {
+    "biography": "About",
+    "biographyDesc": "Our mission and organization",
+    "mission": "Focus Areas",
+    "missionDesc": "Research, education, and technology initiatives",
+    "works": "Programs",
+    "worksDesc": "Current initiatives and partnerships"
+  },
+  "biography": {
+    "title": "About",
+    "headline": "About Parsis Foundation",
+    "subtitle": "A foundation dedicated to education, research, innovation, and community development for the Persian diaspora and the world.",
+    "earlyLife": "Our Mission",
+    "earlyLifeText": "Parsis Foundation is a not-for-profit organization where centers and programs focused on education, research, and technology intertwine for the benefit of the Persian community and the world.",
+    "education": "Our Approach",
+    "educationText": "We support groundbreaking research in AI, cryptography, and decentralized systems. Our educational programs empower the next generation of leaders, researchers, and innovators.",
+    "residence": "Global Reach",
+    "residenceText": "Based in Switzerland with global partnerships, serving the Persian diaspora and contributing to international research and humanitarian efforts.",
+    "practice": "Focus",
+    "visualArtist": "Research & Innovation",
+    "focus": "Focus",
+    "humanitarianWork": "Community Development",
+    "sector": "Sector",
+    "privacyTechnology": "Technology",
+    "artisticPractice": "Research Excellence",
+    "artisticPracticeText1": "Our research programs focus on frontier AI, applied cryptography, privacy-preserving computation, and decentralized systems that protect individual freedoms.",
+    "artisticPracticeText2": "We partner with leading universities and research institutions worldwide to advance knowledge and develop practical solutions for global challenges.",
+    "viewWorksExhibitions": "View Programs",
+    "selectedExhibitions": "Research Centers",
+    "exhibitionsSubtitle": "Centers of excellence in education and research",
+    "humanitarianCivicWork": "Community & Education",
+    "humanitarianText1": "Our community programs connect the Persian diaspora worldwide, preserving cultural heritage while building bridges to the future.",
+    "humanitarianText2": "Educational initiatives support students and researchers, providing scholarships, fellowships, and resources for academic excellence.",
+    "civicTechInitiatives": "Technology Initiatives",
+    "civicTechSubtitle": "Programs supporting privacy technology, open governance, and decentralized infrastructure",
+    "professionalBackground": "Leadership",
+    "professionalText1": "Parsis Foundation is led by experienced leaders from technology, finance, and academia, guided by the vision of the House of Pahlavi.",
+    "professionalText2": "HRH Cyrus Pahlavi serves as Chief Investment Officer, bringing expertise in privacy technology, applied cryptography, and strategic investment.",
+    "viewWorks": "View Programs",
+    "readMission": "Read Mission",
+    "visit": "Visit",
+    "initiatives": {
+      "parsisFoundation": "Research Programs",
+      "parsisFoundationDesc": "Frontier AI, cryptography, and decentralized systems research.",
+      "parsisFund": "Parsis Fund",
+      "parsisFundDesc": "Investment in technology, education, and humanitarian initiatives.",
+      "parsNetwork": "Pars Network",
+      "parsNetworkDesc": "Privacy-preserving platform for resilient communications.",
+      "luxFund": "Educational Programs",
+      "luxFundDesc": "Scholarships, fellowships, and academic partnerships."
+    }
+  },
+  "mission": {
+    "title": "Focus Areas",
+    "headline": "Advancing knowledge and innovation for humanity",
+    "subtitle": "Our programs span artificial intelligence, cryptography, open governance, education, and community development—all guided by our commitment to unlocking human potential.",
+    "priorities": {
+      "sustainability": {
+        "title": "Artificial Intelligence Research",
+        "description": "We invest in frontier AI research, developing large language models, multimodal systems, and AI infrastructure that serves humanity. Our AI programs focus on responsible development and beneficial applications.",
+        "quote": "AI represents an unprecedented opportunity to unlock human potential. We are committed to ensuring this technology serves humanity."
+      },
+      "coexistence": {
+        "title": "Cryptography & Privacy",
+        "description": "Our cryptography research advances privacy-preserving computation, zero-knowledge proofs, and secure communication systems. We develop tools that protect individual freedoms and enable trusted digital interactions.",
+        "quote": "Privacy is not just a right—it is the foundation of human dignity in the digital age."
+      },
+      "education": {
+        "title": "Open Governance Protocols",
+        "description": "We support research into decentralized governance, transparent decision-making systems, and protocols that enable communities to coordinate effectively without centralized control.",
+        "quote": "Open governance empowers communities to shape their own future through transparent, participatory processes."
+      },
+      "cooperation": {
+        "title": "Education & Scholarships",
+        "description": "Our educational programs support students and researchers worldwide, with a focus on STEM fields, leadership development, and interdisciplinary studies that prepare leaders for complex global challenges.",
+        "quote": "Education is the most powerful driver of progress. We invest in the leaders of tomorrow."
+      },
+      "prosperity": {
+        "title": "Community Development",
+        "description": "We support programs that strengthen the Persian diaspora, preserve cultural heritage, and build connections across generations and borders.",
+        "quote": "Our community is our greatest strength. We nurture bonds that unite people worldwide."
+      },
+      "identity": {
+        "title": "Humanitarian Programs",
+        "description": "We support humanitarian initiatives that protect human rights, assist refugees and displaced persons, and provide aid to communities in crisis.",
+        "quote": "We extend the hand of support to all who face hardship, standing in solidarity with those who need it most."
+      }
+    }
+  },
+  "works": {
+    "title": "Programs",
+    "headline": "Research, Education & Innovation",
+    "subtitle": "Our programs span frontier AI research, privacy technology, open governance protocols, education, and community development.",
+    "keyAchievements": "Key Programs",
+    "selectedExhibitions": "Research Centers",
+    "exhibitionsSubtitle": "Centers of excellence partnering with leading institutions",
+    "philosophyQuote": "At the heart of everything we do is the knowledge that our future lies in unlocking the most precious resource of all—human potential.",
+    "disciplines": {
+      "visualArts": {
+        "title": "AI Research",
+        "description": "Frontier AI research including large language models, multimodal systems, and AI infrastructure for beneficial applications.",
+        "achievements": [
+          "Large language model development",
+          "Multimodal AI systems",
+          "Model context protocols",
+          "AI safety and alignment research"
+        ]
+      },
+      "technology": {
+        "title": "Cryptography Research",
+        "description": "Advanced cryptographic research including zero-knowledge proofs, fully homomorphic encryption, and privacy-preserving computation.",
+        "achievements": [
+          "Zero-knowledge proof systems",
+          "Fully homomorphic encryption",
+          "Post-quantum cryptography",
+          "Secure multi-party computation"
+        ]
+      },
+      "investment": {
+        "title": "Open Governance",
+        "description": "Research and development of decentralized governance protocols, transparent decision-making systems, and coordination mechanisms.",
+        "achievements": [
+          "Decentralized governance protocols",
+          "On-chain voting systems",
+          "Transparent treasury management",
+          "Community coordination tools"
+        ]
+      },
+      "writing": {
+        "title": "Education Programs",
+        "description": "Scholarships, fellowships, and academic partnerships supporting students and researchers worldwide.",
+        "achievements": [
+          "STEM scholarships",
+          "Research fellowships",
+          "University partnerships",
+          "Leadership development"
+        ]
+      },
+      "screen": {
+        "title": "Community Programs",
+        "description": "Programs connecting the Persian diaspora, preserving cultural heritage, and building intergenerational bonds.",
+        "achievements": [
+          "Cultural preservation initiatives",
+          "Diaspora networking",
+          "Heritage education",
+          "Community events"
+        ]
+      },
+      "sculpture": {
+        "title": "Humanitarian Aid",
+        "description": "Supporting refugees, displaced persons, and communities in crisis through direct assistance and advocacy.",
+        "achievements": [
+          "Refugee support programs",
+          "Emergency humanitarian aid",
+          "Human rights advocacy",
+          "Civil society support"
+        ]
+      }
+    },
+    "exhibitions": {
+      "privateExhibition": "Research Center",
+      "artDubai": "Partner Institution",
+      "groupExhibition": "Collaborative Program",
+      "sothebysAuction": "Featured Initiative",
+      "privateCollection": "Program"
+    }
+  },
+  "family": {
+    "title": "Leadership",
+    "headline": "Our Leadership",
+    "subtitle": "Parsis Foundation is guided by experienced leaders from technology, finance, and academia, united by the vision to unlock human potential.",
+    "royalFamily": "Foundation Leadership",
+    "dedicatedToService": "Dedicated to Excellence",
+    "familyQuote": "The legacy of our foundation will be measured not in programs launched, but in the lives transformed and the futures made possible.",
+    "centuryOfProgress": "Our Journey",
+    "centurySubtitle": "Key moments in the foundation's development",
+    "enduringValues": "Our Values",
+    "valuesSubtitle": "The values that guide every aspect of our work.",
+    "service": "Excellence",
+    "serviceDesc": "Delivering exceptional results in everything we do",
+    "dignity": "Innovation",
+    "dignityDesc": "Exploring beyond boundaries to solve complex challenges",
+    "unity": "Integrity",
+    "unityDesc": "Acting ethically and transparently in all our work",
+    "continuingLegacy": "Join Us",
+    "continuingLegacyText": "Learn more about partnership opportunities, research collaborations, and how to support our mission.",
+    "ourMission": "Our Mission",
+    "currentInitiatives": "Current Programs",
+    "members": {
+      "rezaShah": {
+        "name": "HRH Cyrus Pahlavi",
+        "title": "Chief Investment Officer",
+        "years": "Technology & Investment",
+        "relation": "Foundation Leadership",
+        "description": "Leads investment strategy and technology initiatives. Pioneer in privacy technology, applied cryptography, and decentralized systems."
+      },
+      "mohammadReza": {
+        "name": "Research Council",
+        "title": "Academic Leadership",
+        "years": "Research & Education",
+        "relation": "Advisory",
+        "description": "Distinguished researchers and academics from leading institutions worldwide guiding our research programs and educational initiatives."
+      },
+      "crownPrince": {
+        "name": "Technology Advisory",
+        "title": "Technical Leadership",
+        "years": "Technology",
+        "relation": "Advisory",
+        "description": "Technology leaders and innovators advising on AI, cryptography, and infrastructure development."
+      },
+      "farah": {
+        "name": "Community Council",
+        "title": "Community Leadership",
+        "years": "Community",
+        "relation": "Advisory",
+        "description": "Community leaders connecting the Persian diaspora and guiding cultural preservation and humanitarian initiatives."
+      }
+    },
+    "milestones": {
+      "founding": {
+        "year": "2024",
+        "title": "Foundation Established",
+        "description": "Parsis Foundation was established with a mission to advance education, research, and innovation."
+      },
+      "whiteRevolution": {
+        "year": "2025",
+        "title": "Research Programs Launch",
+        "description": "First research programs in AI, cryptography, and open governance protocols launched."
+      },
+      "celebration": {
+        "year": "2025",
+        "title": "Educational Partnerships",
+        "description": "Partnerships established with leading universities and research institutions worldwide."
+      },
+      "present": {
+        "year": "Present",
+        "title": "Growing Impact",
+        "description": "Expanding research, education, and community programs to serve the Persian diaspora and humanity."
+      }
+    }
+  },
+  "news": {
+    "title": "News",
+    "headline": "Latest News",
+    "subtitle": "Updates on research, programs, and initiatives",
+    "readMore": "Read More",
+    "categories": {
+      "humanitarian": "Research",
+      "culture": "Education",
+      "technology": "Technology",
+      "education": "Community",
+      "address": "Announcement"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "headline": "Get in Touch",
+    "subtitle": "For partnership inquiries, research collaboration, or general information, please reach out through official channels.",
+    "officialWebsite": "Official Website",
+    "address": "Location"
+  },
+  "footer": {
+    "about": "About",
+    "work": "Programs",
+    "legal": "Legal",
+    "connect": "Connect",
+    "biography": "About",
+    "mission": "Mission",
+    "family": "Leadership",
+    "works": "Programs",
+    "initiatives": "Initiatives",
+    "news": "News",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "contact": "Contact",
+    "copyright": "All rights reserved.",
+    "memberOf": "House of Pahlavi",
+    "tagline": "Unlocking human potential through education, research, and innovation."
+  },
+  "language": {
+    "en": "English",
+    "fa": "فارسی"
+  }
+}

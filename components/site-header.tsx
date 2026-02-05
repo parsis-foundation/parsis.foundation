@@ -1,0 +1,132 @@
+'use client';
+
+import * as React from 'react';
+import Link from 'next/link';
+import Image from 'next/image';
+import { Search } from 'lucide-react';
+import { HamburgerIcon } from './hamburger-icon';
+import { cn } from '@/lib/utils';
+import { CommandPalette } from './command-palette';
+import { LanguageSwitcher } from './language-switcher';
+import { useI18n } from '@/lib/i18n/context';
+
+export function SiteHeader() {
+  const [open, setOpen] = React.useState(false);
+  const [paletteOpen, setPaletteOpen] = React.useState(false);
+  const { t, isRTL } = useI18n();
+
+  const navItems = [
+    { label: t.nav.biography, href: '/biography' },
+    { label: t.nav.mission, href: '/mission' },
+    { label: t.nav.works, href: '/works' },
+    { label: t.nav.family, href: '/family' },
+    { label: t.nav.initiatives, href: '/initiatives-and-partners' },
+    { label: t.nav.news, href: '/news' },
+  ];
+
+  React.useEffect(() => {
+    const handler = () => setOpen(false);
+    window.addEventListener('resize', handler);
+    return () => window.removeEventListener('resize', handler);
+  }, []);
+
+  React.useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k') {
+        event.preventDefault();
+        setPaletteOpen((prev) => !prev);
+      }
+      if (event.key === 'Escape') {
+        setPaletteOpen(false);
+        setOpen(false);
+      }
+    };
+    document.addEventListener('keydown', handleKeyDown);
+    return () => document.removeEventListener('keydown', handleKeyDown);
+  }, []);
+
+  return (
+    <>
+      <header className="sticky top-0 z-50 border-b border-white/10 bg-black/95 backdrop-blur-xl">
+        <div className={cn("container flex items-center justify-between gap-6 py-4", isRTL && "flex-row-reverse")}>
+          {/* Logo */}
+          <Link href="/" className="flex-shrink-0">
+            <Image
+              src="/cyrus-signature.png"
+              alt={t.site.name}
+              width={140}
+              height={38}
+              className="signature-logo"
+              priority
+            />
+          </Link>
+
+          {/* Desktop Nav */}
+          <nav className={cn("hidden xl:flex items-center gap-8", isRTL && "flex-row-reverse")}>
+            {navItems.map((item) => (
+              <Link
+                key={item.href}
+                href={item.href}
+                className="text-sm font-medium text-neutral-300 transition-colors hover:text-gold"
+              >
+                {item.label}
+              </Link>
+            ))}
+          </nav>
+
+          {/* Right Side */}
+          <div className={cn("flex items-center gap-3", isRTL && "flex-row-reverse")}>
+            <LanguageSwitcher />
+
+            <button
+              type="button"
+              onClick={() => setPaletteOpen(true)}
+              className="hidden xl:flex rounded-lg p-2 text-neutral-400 transition-colors hover:bg-white/5 hover:text-gold"
+              aria-label={t.nav.search}
+            >
+              <Search size={18} />
+            </button>
+
+            {/* Mobile Menu Button */}
+            <button
+              type="button"
+              className="inline-flex items-center justify-center p-2 text-neutral-400 xl:hidden"
+              aria-label={t.nav.menu}
+              onClick={() => setOpen((prev) => !prev)}
+            >
+              <HamburgerIcon open={open} />
+            </button>
+          </div>
+        </div>
+
+        {/* Mobile Menu */}
+        <div
+          className={cn(
+            'xl:hidden border-t border-white/10 bg-black/95 backdrop-blur-xl transition-all overflow-hidden',
+            open ? 'max-h-[600px] opacity-100' : 'max-h-0 opacity-0'
+          )}
+        >
+          <div className="container py-6">
+            <nav className={cn("flex flex-col gap-1", isRTL && "items-end")}>
+              {navItems.map((item) => (
+                <Link
+                  key={item.href}
+                  href={item.href}
+                  className={cn(
+                    "rounded-lg px-4 py-3 text-sm font-medium text-neutral-300 transition-colors hover:bg-white/5 hover:text-gold",
+                    isRTL && "text-right"
+                  )}
+                  onClick={() => setOpen(false)}
+                >
+                  {item.label}
+                </Link>
+              ))}
+            </nav>
+          </div>
+        </div>
+      </header>
+
+      <CommandPalette isOpen={paletteOpen} onClose={() => setPaletteOpen(false)} />
+    </>
+  );
+}
