@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react'
 import path from 'path'
 
 export default defineConfig({
+  base: '/parsis.foundation/',
   plugins: [react()],
   resolve: {
     alias: {
