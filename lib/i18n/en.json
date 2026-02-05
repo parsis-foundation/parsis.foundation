@@ -14,20 +14,20 @@
     "menu": "Menu"
   },
   "hero": {
-    "title": "501(c)(3) Nonprofit",
-    "name": "Empowering the Parsi Legacy",
-    "tagline": "Preserving Zoroastrian Culture, Education, and Community Worldwide",
-    "description": "Your gift is tax-deductible. Join us in supporting scholarships, heritage preservation, and community programs for the global Parsi diaspora."
+    "title": "House of Pahlavi",
+    "name": "Parsis Foundation",
+    "tagline": "Preserving Zoroastrian Heritage, Education, and Community",
+    "description": "A family foundation dedicated to supporting the global Parsi diaspora through scholarships, heritage preservation, and community programs."
   },
   "home": {
-    "tagline": "Donate Now | Learn More | Volunteer",
-    "intro": "Parsis Foundation is a 501(c)(3) nonprofit supporting the global Parsi diaspora through scholarships, heritage preservation, health initiatives, and cultural bridges. Founded in San Francisco, we honor ancient Zoroastrian roots while fostering modern thriving.",
-    "quote": "All donations fuel direct impact—100% of funds go to programs serving our community.",
+    "tagline": "Education | Heritage | Community",
+    "intro": "Parsis Foundation is a family foundation of the House of Pahlavi, supporting the global Parsi diaspora through scholarships, heritage preservation, health initiatives, and cultural bridges.",
+    "quote": "Good thoughts, good words, good deeds—the eternal principles guiding our mission.",
     "legacyLabel": "Our Heritage",
     "legacyTitle": "Honoring Ancient Zoroastrian Traditions",
     "legacyText1": "The Parsi community has preserved Zoroastrian traditions for over a millennium, maintaining a rich cultural heritage while contributing to societies worldwide.",
     "legacyText2": "Parsis Foundation bridges generations by connecting youth with their heritage while supporting education, community health, and cultural preservation programs globally.",
-    "legacyQuote": "Good thoughts, good words, good deeds—the eternal principles that guide our mission to serve the Parsi community worldwide.",
+    "legacyQuote": "We honor the sacred fire that has burned for millennia—a symbol of truth, righteousness, and the eternal light of wisdom.",
     "exploreLegacy": "Learn More",
     "valuesLabel": "Our Values",
     "valuesTitle": "Guided by Zoroastrian Principles",
@@ -45,7 +45,7 @@
   },
   "sections": {
     "biography": "About Us",
-    "biographyDesc": "Our mission and 501(c)(3) nonprofit organization",
+    "biographyDesc": "Our mission and foundation",
     "mission": "What We Do",
     "missionDesc": "Education, heritage, and community programs",
     "works": "Programs",
@@ -54,22 +54,22 @@
   "biography": {
     "title": "About",
     "headline": "About Parsis Foundation",
-    "subtitle": "A US-based 501(c)(3) nonprofit dedicated to supporting the global Parsi Zoroastrian community through education, heritage preservation, and community development.",
+    "subtitle": "A family foundation of the House of Pahlavi dedicated to supporting the global Parsi Zoroastrian community through education, heritage preservation, and community development.",
     "earlyLife": "Our Mission",
     "earlyLifeText": "Parsis Foundation empowers the global Parsi diaspora through scholarships for youth in STEM, arts, and cultural studies; grants for fire temples and heritage sites; language preservation programs; and community health initiatives.",
     "education": "Our Approach",
-    "educationText": "We maintain the highest standards of nonprofit governance with independent board oversight, transparent financials, and 100% program efficiency. All donations directly support our community programs.",
-    "residence": "Based in San Francisco",
-    "residenceText": "Founded in San Francisco, California, we serve Parsi communities in India, the diaspora hubs of North America, Europe, and Australia, and heritage sites worldwide.",
+    "educationText": "We take a long-term, values-driven approach to philanthropy. Our programs are designed to create lasting impact across generations, preserving heritage while empowering the next generation of Parsi leaders.",
+    "residence": "Global Reach",
+    "residenceText": "Based in Switzerland with global reach, we serve Parsi communities in India, North America, Europe, Australia, and heritage sites worldwide.",
     "practice": "Focus",
     "visualArtist": "Education & Scholarships",
     "focus": "Focus",
     "humanitarianWork": "Heritage Preservation",
     "sector": "Sector",
     "privacyTechnology": "Community Health",
-    "artisticPractice": "Tax-Deductible Giving",
-    "artisticPracticeText1": "As a registered 501(c)(3) nonprofit organization, all donations to Parsis Foundation are tax-deductible to the full extent permitted by law.",
-    "artisticPracticeText2": "We maintain full transparency with annual Form 990 filings, independent audits, and public disclosure of all programs and financials.",
+    "artisticPractice": "Our Commitment",
+    "artisticPracticeText1": "The Pahlavi family has a deep connection to Persian and Zoroastrian heritage. Through Parsis Foundation, we channel resources toward preserving this legacy for future generations.",
+    "artisticPracticeText2": "We maintain full transparency in our programs and partner with established Parsi associations, fire temples, and community organizations worldwide.",
     "viewWorksExhibitions": "View Programs",
     "selectedExhibitions": "Program Areas",
     "exhibitionsSubtitle": "Direct support for Parsi communities worldwide",
@@ -77,10 +77,10 @@
     "humanitarianText1": "Our programs reach Parsi communities across India, North America, Europe, and Australia—providing scholarships, supporting fire temples, and funding health clinics.",
     "humanitarianText2": "We partner with established Parsi associations, fire temples, and community organizations to maximize impact and ensure cultural authenticity.",
     "civicTechInitiatives": "Get Involved",
-    "civicTechSubtitle": "Donate, volunteer, or partner with us to support the Parsi community",
+    "civicTechSubtitle": "Partner with us to support the Parsi community",
     "professionalBackground": "Governance",
-    "professionalText1": "Parsis Foundation is governed by an independent Board of Directors with expertise in nonprofit management, Zoroastrian heritage, education, and community development.",
-    "professionalText2": "Our governance structure ensures independence, accountability, and alignment with IRS requirements for public charities.",
+    "professionalText1": "Parsis Foundation is led by the Pahlavi family with guidance from advisors with expertise in Zoroastrian heritage, education, and community development.",
+    "professionalText2": "Our structure ensures accountability and alignment with our mission to serve the global Parsi community.",
     "viewWorks": "View Programs",
     "readMission": "Our Mission",
     "visit": "Visit",
@@ -88,7 +88,7 @@
       "parsisFoundation": "Scholarships",
       "parsisFoundationDesc": "Merit-based awards for Parsi youth in STEM, arts, and cultural studies.",
       "parsisFund": "Parsis Fund",
-      "parsisFundDesc": "Ethical investments supporting community programs. Inquire for details.",
+      "parsisFundDesc": "Investment arm supporting foundation programs and community initiatives.",
       "parsNetwork": "Heritage Grants",
       "parsNetworkDesc": "Supporting fire temples, language programs, and cultural festivals.",
       "luxFund": "Health Programs",
@@ -98,11 +98,11 @@
   "mission": {
     "title": "What We Do",
     "headline": "Supporting the Global Parsi Community",
-    "subtitle": "Our programs focus on education, heritage preservation, community health, and cultural connection—serving Parsi Zoroastrians worldwide with 100% program efficiency.",
+    "subtitle": "Our programs focus on education, heritage preservation, community health, and cultural connection—serving Parsi Zoroastrians worldwide.",
     "priorities": {
       "sustainability": {
         "title": "Education & Scholarships",
-        "description": "Merit-based scholarships for Parsi youth pursuing excellence in STEM, arts, Persian studies, and leadership development. Our Year 1 goal is $1M in scholarship funding.",
+        "description": "Merit-based scholarships for Parsi youth pursuing excellence in STEM, arts, Persian studies, and leadership development. We invest in the next generation of Parsi leaders.",
         "quote": "Education empowers the next generation to carry forward our heritage while excelling in the modern world."
       },
       "coexistence": {
@@ -122,13 +122,13 @@
       },
       "prosperity": {
         "title": "Global Outreach",
-        "description": "US-based with global reach—serving Parsi communities in India, the Americas, Europe, Australia, and beyond. 100% of program funds go directly to community impact.",
+        "description": "Serving Parsi communities in India, the Americas, Europe, Australia, and beyond. Our programs reach wherever Parsis live and thrive.",
         "quote": "Wherever Parsis live, we are there to support education, heritage, and community wellbeing."
       },
       "identity": {
-        "title": "Transparent Governance",
-        "description": "Independent Board of Directors, annual audits, public Form 990 filings, and full disclosure of all programs. No overhead waste—every dollar serves our community.",
-        "quote": "Trust is earned through transparency. We maintain the highest standards of nonprofit governance."
+        "title": "Research & Documentation",
+        "description": "Supporting academic research into Zoroastrian history, theology, and culture. Documenting oral histories and preserving manuscripts for future generations.",
+        "quote": "Understanding our past illuminates our path forward."
       }
     }
   },
@@ -213,22 +213,22 @@
   "family": {
     "title": "Leadership",
     "headline": "Our Leadership",
-    "subtitle": "Parsis Foundation is governed by an independent Board of Directors committed to transparency, accountability, and service to the Parsi Zoroastrian community.",
-    "royalFamily": "Board of Directors",
-    "dedicatedToService": "Independent Governance",
+    "subtitle": "Parsis Foundation is led by the Pahlavi family, with a deep commitment to preserving Zoroastrian heritage and supporting the global Parsi community.",
+    "royalFamily": "Foundation Leadership",
+    "dedicatedToService": "Dedicated to Service",
     "familyQuote": "Our foundation's success is measured by the students we educate, the heritage we preserve, and the communities we strengthen.",
-    "centuryOfProgress": "Governance",
-    "centurySubtitle": "Nonprofit best practices and IRS compliance",
+    "centuryOfProgress": "Our Journey",
+    "centurySubtitle": "Key moments in the foundation's development",
     "enduringValues": "Our Commitment",
-    "valuesSubtitle": "Transparency, accountability, and community service guide every decision.",
-    "service": "Transparency",
-    "serviceDesc": "Public disclosure of financials, programs, and governance",
-    "dignity": "Accountability",
-    "dignityDesc": "Independent board oversight and annual audits",
-    "unity": "Service",
-    "unityDesc": "100% of program funds go directly to community impact",
+    "valuesSubtitle": "Excellence, heritage, and service guide every decision.",
+    "service": "Heritage",
+    "serviceDesc": "Preserving Zoroastrian traditions for future generations",
+    "dignity": "Education",
+    "dignityDesc": "Empowering the next generation of Parsi leaders",
+    "unity": "Community",
+    "unityDesc": "Strengthening bonds across the global diaspora",
     "continuingLegacy": "Get Involved",
-    "continuingLegacyText": "Join our Board, volunteer, or partner with us to support the global Parsi community.",
+    "continuingLegacyText": "Partner with us to support the global Parsi community through education, heritage preservation, and community programs.",
     "ourMission": "Our Mission",
     "currentInitiatives": "Current Programs",
     "members": {
@@ -240,32 +240,32 @@
         "description": "Leads foundation strategy and operations. Entrepreneur and technologist with expertise in privacy technology, applied cryptography, and philanthropic investment."
       },
       "mohammadReza": {
-        "name": "Board of Directors",
-        "title": "Independent Governance",
-        "years": "Oversight & Strategy",
-        "relation": "Governance",
-        "description": "Three or more independent directors providing oversight, strategic direction, and fiduciary responsibility for foundation operations."
+        "name": "Advisory Council",
+        "title": "Strategic Guidance",
+        "years": "Heritage & Education",
+        "relation": "Advisory",
+        "description": "Community leaders and scholars providing guidance on heritage preservation, educational programs, and community initiatives."
       },
       "crownPrince": {
         "name": "Program Committee",
         "title": "Program Oversight",
-        "years": "Education & Heritage",
+        "years": "Programs",
         "relation": "Advisory",
-        "description": "Community leaders and educators guiding scholarship selection, heritage grants, and program development."
+        "description": "Experts guiding scholarship selection, heritage grants, and program development to ensure maximum community impact."
       },
       "farah": {
-        "name": "Community Advisory",
-        "title": "Community Voice",
+        "name": "Community Partners",
+        "title": "Global Network",
         "years": "Outreach",
-        "relation": "Advisory",
-        "description": "Representatives from Parsi associations, fire temples, and diaspora communities ensuring programs meet real needs."
+        "relation": "Partners",
+        "description": "Parsi associations, fire temples, and community organizations worldwide partnering to deliver programs effectively."
       }
     },
     "milestones": {
       "founding": {
         "year": "2024",
         "title": "Foundation Established",
-        "description": "Parsis Foundation incorporated in California as a 501(c)(3) public charity."
+        "description": "Parsis Foundation established by the Pahlavi family to support the global Parsi community."
       },
       "whiteRevolution": {
         "year": "2025",
@@ -300,9 +300,9 @@
   "contact": {
     "title": "Contact",
     "headline": "Get in Touch",
-    "subtitle": "For donations, volunteer opportunities, or partnership inquiries, please contact us through official channels.",
-    "officialWebsite": "info@parsisfoundation.org",
-    "address": "San Francisco, California"
+    "subtitle": "For partnership inquiries or general information, please contact us through official channels.",
+    "officialWebsite": "info@parsis.foundation",
+    "address": "Switzerland"
   },
   "footer": {
     "about": "About",
@@ -318,8 +318,8 @@
     "privacy": "Privacy Policy",
     "terms": "Terms of Use",
     "contact": "Contact",
-    "copyright": "Parsis Foundation is a 501(c)(3) nonprofit. EIN pending. Donations are tax-deductible.",
-    "memberOf": "San Francisco, CA",
+    "copyright": "All rights reserved.",
+    "memberOf": "House of Pahlavi",
     "tagline": "Supporting education, heritage, and community for the global Parsi diaspora."
   },
   "language": {
