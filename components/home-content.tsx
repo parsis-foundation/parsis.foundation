@@ -57,8 +57,7 @@ export function HomeContent() {
             </div>
             <div className={cn("relative flex justify-center", isRTL && "lg:order-1")}>
               <div className="relative w-[180px] sm:w-[220px] md:w-[260px] lg:w-[300px] xl:w-[360px]">
-                <div className="absolute -inset-3 md:-inset-4 rounded-2xl border border-gold/20" />
-                <div className="overflow-hidden rounded-xl bg-gradient-to-br from-gold/20 to-gold/5 flex items-center justify-center aspect-square p-8">
+                <div className="overflow-hidden rounded-xl flex items-center justify-center aspect-square p-8">
                   <Image
                     src="/images/official-seal.png"
                     alt="Parsis Foundation Official Seal"
