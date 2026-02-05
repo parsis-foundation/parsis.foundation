@@ -58,12 +58,15 @@ export function HomeContent() {
             <div className={cn("relative flex justify-center", isRTL && "lg:order-1")}>
               <div className="relative w-[180px] sm:w-[220px] md:w-[260px] lg:w-[300px] xl:w-[360px]">
                 <div className="absolute -inset-3 md:-inset-4 rounded-2xl border border-gold/20" />
-                <div className="overflow-hidden rounded-xl bg-gradient-to-br from-gold/20 to-gold/5 flex items-center justify-center aspect-[3/4]">
-                  {/* Fire temple / Faravahar symbol placeholder */}
-                  <div className="text-center p-6">
-                    <div className="text-6xl mb-4">🔥</div>
-                    <p className="text-gold/60 text-sm uppercase tracking-wider">Preserving the Sacred Fire</p>
-                  </div>
+                <div className="overflow-hidden rounded-xl bg-gradient-to-br from-gold/20 to-gold/5 flex items-center justify-center aspect-square p-8">
+                  <Image
+                    src="/images/official-seal.png"
+                    alt="Parsis Foundation Official Seal"
+                    width={400}
+                    height={400}
+                    className="w-full h-full object-contain"
+                    priority
+                  />
                 </div>
               </div>
             </div>
