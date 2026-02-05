@@ -58,15 +58,12 @@ export function HomeContent() {
             <div className={cn("relative flex justify-center", isRTL && "lg:order-1")}>
               <div className="relative w-[180px] sm:w-[220px] md:w-[260px] lg:w-[300px] xl:w-[360px]">
                 <div className="absolute -inset-3 md:-inset-4 rounded-2xl border border-gold/20" />
-                <div className="overflow-hidden rounded-xl">
-                  <Image
-                    src="/images/cyrus-pahlavi.jpg"
-                    alt={t.hero.name}
-                    width={600}
-                    height={800}
-                    className="h-full w-full object-cover"
-                    priority
-                  />
+                <div className="overflow-hidden rounded-xl bg-gradient-to-br from-gold/20 to-gold/5 flex items-center justify-center aspect-[3/4]">
+                  {/* Fire temple / Faravahar symbol placeholder */}
+                  <div className="text-center p-6">
+                    <div className="text-6xl mb-4">🔥</div>
+                    <p className="text-gold/60 text-sm uppercase tracking-wider">Preserving the Sacred Fire</p>
+                  </div>
                 </div>
               </div>
             </div>
@@ -217,21 +214,21 @@ export function HomeContent() {
             {[
               {
                 date: '1 February 2026',
-                title: 'HRH Cyrus Pahlavi Appointed Founding Chairman of MIGA DAO',
-                excerpt: 'New decentralized autonomous organization launches to coordinate transparent humanitarian funding for the global Persian community.',
-                href: '/news/miga-dao-founding-chairman',
+                title: 'Parsis Foundation Launches 2026 Scholarship Program',
+                excerpt: 'Applications now open for merit-based scholarships supporting Parsi students in STEM, arts, and Zoroastrian studies at universities worldwide.',
+                href: '/news/scholarship-program-2026',
               },
               {
                 date: '22 January 2026',
-                title: 'HRH Cyrus Pahlavi Attends World Economic Forum in Davos',
-                excerpt: 'Discussions focused on privacy technology, humanitarian innovation, and the future of decentralized systems.',
-                href: '/news/davos-2026',
+                title: 'Fire Temple Preservation Grants Announced',
+                excerpt: 'New funding available for Agiaries and Atash Behrams in India and diaspora communities for restoration and operational support.',
+                href: '/news/fire-temple-grants',
               },
               {
                 date: '15 January 2026',
-                title: 'Pars Network Launches Privacy-Preserving Communications Infrastructure',
-                excerpt: 'New platform provides resilient, censorship-resistant communications for Iranians and civil society organizations worldwide.',
-                href: '/news/pars-network-launch',
+                title: 'Nowruz 2026 Community Celebration Grants',
+                excerpt: 'Supporting Parsi community organizations hosting Nowruz celebrations across North America, Europe, and Australia.',
+                href: '/news/nowruz-2026-grants',
               },
             ].map((item, index) => (
               <article
