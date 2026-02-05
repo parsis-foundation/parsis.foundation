@@ -214,21 +214,21 @@ export function HomeContent() {
             {[
               {
                 date: '1 February 2026',
-                title: 'Parsis Foundation Launches 2026 Scholarship Program',
-                excerpt: 'Applications now open for merit-based scholarships supporting Parsi students in STEM, arts, and Zoroastrian studies at universities worldwide.',
-                href: '/news/scholarship-program-2026',
+                title: 'Free AI Assistants Now Available for Persian Users',
+                excerpt: 'Parsis Foundation launches free access to Farsi-optimized AI tools including translation, education, and productivity assistants for Persians worldwide.',
+                href: '/news/ai-assistants-launch',
               },
               {
                 date: '22 January 2026',
-                title: 'Fire Temple Preservation Grants Announced',
-                excerpt: 'New funding available for Agiaries and Atash Behrams in India and diaspora communities for restoration and operational support.',
-                href: '/news/fire-temple-grants',
+                title: 'VPN Infrastructure Expansion for Iran',
+                excerpt: 'New high-speed servers deployed to help millions of Persians bypass censorship and access the open internet safely and reliably.',
+                href: '/news/vpn-expansion',
               },
               {
                 date: '15 January 2026',
-                title: 'Nowruz 2026 Community Celebration Grants',
-                excerpt: 'Supporting Parsi community organizations hosting Nowruz celebrations across North America, Europe, and Australia.',
-                href: '/news/nowruz-2026-grants',
+                title: 'Digital Literacy Program Opens Enrollment',
+                excerpt: 'Free online courses in Farsi covering AI literacy, cybersecurity, programming basics, and digital skills now accepting students.',
+                href: '/news/digital-literacy-program',
               },
             ].map((item, index) => (
               <article

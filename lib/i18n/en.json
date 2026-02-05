@@ -16,28 +16,28 @@
   "hero": {
     "title": "House of Pahlavi",
     "name": "Parsis Foundation",
-    "tagline": "Preserving Zoroastrian Heritage, Education, and Community",
-    "description": "A family foundation dedicated to supporting the global Parsi diaspora through scholarships, heritage preservation, and community programs."
+    "tagline": "Connecting Persians to Technology, Media & Opportunity",
+    "description": "A family foundation dedicated to empowering the global Persian diaspora through access to free media, AI tools, secure communications, and educational technology."
   },
   "home": {
-    "tagline": "Education | Heritage | Community",
-    "intro": "Parsis Foundation is a family foundation of the House of Pahlavi, supporting the global Parsi diaspora through scholarships, heritage preservation, health initiatives, and cultural bridges.",
-    "quote": "Good thoughts, good words, good deeds—the eternal principles guiding our mission.",
-    "legacyLabel": "Our Heritage",
-    "legacyTitle": "Honoring Ancient Zoroastrian Traditions",
-    "legacyText1": "The Parsi community has preserved Zoroastrian traditions for over a millennium, maintaining a rich cultural heritage while contributing to societies worldwide.",
-    "legacyText2": "Parsis Foundation bridges generations by connecting youth with their heritage while supporting education, community health, and cultural preservation programs globally.",
-    "legacyQuote": "We honor the sacred fire that has burned for millennia—a symbol of truth, righteousness, and the eternal light of wisdom.",
+    "tagline": "Technology | Media | Freedom",
+    "intro": "Parsis Foundation is a family foundation of the House of Pahlavi, working to ensure Persians worldwide have access to uncensored information, modern technology, AI tools, and secure communications.",
+    "quote": "Access to information is the foundation of freedom. We build bridges where others build walls.",
+    "legacyLabel": "Our Mission",
+    "legacyTitle": "Technology Access for Every Persian",
+    "legacyText1": "Millions of Persians face barriers to accessing free media, modern technology, and AI tools. We work to remove these barriers through education, infrastructure, and direct support.",
+    "legacyText2": "From secure messaging to AI literacy, from VPN access to digital skills training—we provide the tools Persians need to connect, learn, and thrive in the modern world.",
+    "legacyQuote": "When information flows freely, people can make informed decisions about their lives, their communities, and their future.",
     "exploreLegacy": "Learn More",
-    "valuesLabel": "Our Values",
-    "valuesTitle": "Guided by Zoroastrian Principles",
-    "valuesDescription": "Humata, Hukhta, Hvarshta—Good Thoughts, Good Words, Good Deeds. These ancient principles guide our commitment to education, community, and service.",
-    "community": "Community",
-    "communityDesc": "Strengthening bonds across the global Parsi diaspora",
-    "generosity": "Education",
-    "generosityDesc": "Investing in scholarships and academic excellence",
-    "inclusivity": "Heritage",
-    "inclusivityDesc": "Preserving Zoroastrian culture for future generations",
+    "valuesLabel": "Our Focus",
+    "valuesTitle": "Empowering Persians Through Technology",
+    "valuesDescription": "We believe every Persian deserves access to the same information, tools, and opportunities available to the rest of the world. Technology is the great equalizer.",
+    "community": "Media Access",
+    "communityDesc": "Breaking through censorship to deliver free, uncensored information",
+    "generosity": "AI & Technology",
+    "generosityDesc": "Bringing cutting-edge AI tools and digital literacy to Persian communities",
+    "inclusivity": "Secure Communications",
+    "inclusivityDesc": "Protecting privacy and enabling safe communication for all",
     "latestNews": "Latest",
     "news": "News",
     "viewAll": "View All",
@@ -45,160 +45,160 @@
   },
   "sections": {
     "biography": "About Us",
-    "biographyDesc": "Our mission and foundation",
+    "biographyDesc": "Our mission and approach",
     "mission": "What We Do",
-    "missionDesc": "Education, heritage, and community programs",
+    "missionDesc": "Technology, media, and education programs",
     "works": "Programs",
     "worksDesc": "Current initiatives and impact"
   },
   "biography": {
     "title": "About",
     "headline": "About Parsis Foundation",
-    "subtitle": "A family foundation of the House of Pahlavi dedicated to supporting the global Parsi Zoroastrian community through education, heritage preservation, and community development.",
+    "subtitle": "A family foundation of the House of Pahlavi dedicated to ensuring the global Persian community has access to free media, modern technology, AI tools, and secure communications.",
     "earlyLife": "Our Mission",
-    "earlyLifeText": "Parsis Foundation empowers the global Parsi diaspora through scholarships for youth in STEM, arts, and cultural studies; grants for fire temples and heritage sites; language preservation programs; and community health initiatives.",
+    "earlyLifeText": "Parsis Foundation works to bridge the digital divide facing Persians worldwide. We provide access to uncensored media, AI and technology tools, digital literacy training, secure communication platforms, and educational resources.",
     "education": "Our Approach",
-    "educationText": "We take a long-term, values-driven approach to philanthropy. Our programs are designed to create lasting impact across generations, preserving heritage while empowering the next generation of Parsi leaders.",
+    "educationText": "We take a practical, technology-first approach. We build and fund infrastructure that helps Persians access information freely, communicate securely, and leverage modern AI tools for education and opportunity.",
     "residence": "Global Reach",
-    "residenceText": "Based in Switzerland with global reach, we serve Parsi communities in India, North America, Europe, Australia, and heritage sites worldwide.",
+    "residenceText": "Based in Switzerland with global operations, we serve Persian communities in Iran, the diaspora across North America, Europe, Australia, and wherever Persians need support accessing technology and information.",
     "practice": "Focus",
-    "visualArtist": "Education & Scholarships",
+    "visualArtist": "Media & Information",
     "focus": "Focus",
-    "humanitarianWork": "Heritage Preservation",
+    "humanitarianWork": "Technology Access",
     "sector": "Sector",
-    "privacyTechnology": "Community Health",
+    "privacyTechnology": "Privacy & Security",
     "artisticPractice": "Our Commitment",
-    "artisticPracticeText1": "The Pahlavi family has a deep connection to Persian and Zoroastrian heritage. Through Parsis Foundation, we channel resources toward preserving this legacy for future generations.",
-    "artisticPracticeText2": "We maintain full transparency in our programs and partner with established Parsi associations, fire temples, and community organizations worldwide.",
+    "artisticPracticeText1": "The Pahlavi family believes that access to information and technology is a fundamental right. Through Parsis Foundation, we channel resources toward ensuring every Persian can access the digital tools and information they need.",
+    "artisticPracticeText2": "We work with technology partners, media organizations, and local communities to maximize impact and ensure our programs reach those who need them most.",
     "viewWorksExhibitions": "View Programs",
     "selectedExhibitions": "Program Areas",
-    "exhibitionsSubtitle": "Direct support for Parsi communities worldwide",
+    "exhibitionsSubtitle": "Direct support for Persian communities worldwide",
     "humanitarianCivicWork": "Community Impact",
-    "humanitarianText1": "Our programs reach Parsi communities across India, North America, Europe, and Australia—providing scholarships, supporting fire temples, and funding health clinics.",
-    "humanitarianText2": "We partner with established Parsi associations, fire temples, and community organizations to maximize impact and ensure cultural authenticity.",
+    "humanitarianText1": "Our programs reach Persians inside Iran and across the global diaspora—providing VPN access, AI tools, digital literacy training, and secure communication platforms.",
+    "humanitarianText2": "We partner with technology companies, media organizations, and human rights groups to deliver programs effectively and at scale.",
     "civicTechInitiatives": "Get Involved",
-    "civicTechSubtitle": "Partner with us to support the Parsi community",
-    "professionalBackground": "Governance",
-    "professionalText1": "Parsis Foundation is led by the Pahlavi family with guidance from advisors with expertise in Zoroastrian heritage, education, and community development.",
-    "professionalText2": "Our structure ensures accountability and alignment with our mission to serve the global Parsi community.",
+    "civicTechSubtitle": "Partner with us to expand technology access for Persians",
+    "professionalBackground": "Leadership",
+    "professionalText1": "Parsis Foundation is led by the Pahlavi family with expertise in technology, privacy, cryptography, and media infrastructure.",
+    "professionalText2": "Our team combines deep technical knowledge with understanding of the unique challenges facing the Persian community.",
     "viewWorks": "View Programs",
     "readMission": "Our Mission",
     "visit": "Visit",
     "initiatives": {
-      "parsisFoundation": "Scholarships",
-      "parsisFoundationDesc": "Merit-based awards for Parsi youth in STEM, arts, and cultural studies.",
+      "parsisFoundation": "Media Access",
+      "parsisFoundationDesc": "VPN infrastructure, uncensored news, and information access tools.",
       "parsisFund": "Parsis Fund",
-      "parsisFundDesc": "Investment arm supporting foundation programs and community initiatives.",
-      "parsNetwork": "Heritage Grants",
-      "parsNetworkDesc": "Supporting fire temples, language programs, and cultural festivals.",
-      "luxFund": "Health Programs",
-      "luxFundDesc": "Community clinics, elder care, and wellness initiatives."
+      "parsisFundDesc": "Investment arm funding technology and media infrastructure.",
+      "parsNetwork": "AI Tools",
+      "parsNetworkDesc": "Free AI assistants, translation tools, and educational technology.",
+      "luxFund": "Secure Comms",
+      "luxFundDesc": "Encrypted messaging, privacy tools, and digital security training."
     }
   },
   "mission": {
     "title": "What We Do",
-    "headline": "Supporting the Global Parsi Community",
-    "subtitle": "Our programs focus on education, heritage preservation, community health, and cultural connection—serving Parsi Zoroastrians worldwide.",
+    "headline": "Connecting Persians to the Digital World",
+    "subtitle": "Our programs focus on breaking down barriers to technology, media, and information—empowering Persians worldwide to access the tools and knowledge they need.",
     "priorities": {
       "sustainability": {
-        "title": "Education & Scholarships",
-        "description": "Merit-based scholarships for Parsi youth pursuing excellence in STEM, arts, Persian studies, and leadership development. We invest in the next generation of Parsi leaders.",
-        "quote": "Education empowers the next generation to carry forward our heritage while excelling in the modern world."
+        "title": "Free Media Access",
+        "description": "We fund and build infrastructure to help Persians access uncensored news, independent journalism, and diverse perspectives. When information flows freely, people can make informed decisions.",
+        "quote": "Censorship thrives in darkness. We bring light through technology and perseverance."
       },
       "coexistence": {
-        "title": "Heritage Preservation",
-        "description": "Grants supporting fire temples in India and diaspora communities, language preservation programs for Avestan and Gujarati, and cultural festivals including Nowruz and Navjote ceremonies.",
-        "quote": "Preserving our sacred traditions ensures that the light of Zoroastrian wisdom continues for future generations."
+        "title": "AI & Technology Tools",
+        "description": "We provide free access to AI assistants, translation tools, educational technology, and productivity software. Every Persian deserves access to the same tools available to the rest of the world.",
+        "quote": "AI is transforming how people learn, work, and create. Persians should not be left behind."
       },
       "education": {
-        "title": "Community Health",
-        "description": "Health clinics serving Parsi communities, elder care programs, women's empowerment initiatives, and wellness services across diaspora hubs in India, North America, and beyond.",
-        "quote": "A healthy community is a thriving community. We support wellness at every stage of life."
+        "title": "Digital Literacy",
+        "description": "Training programs teaching digital skills, online safety, AI literacy, and technology fundamentals. From basic computer skills to advanced AI prompting—we meet people where they are.",
+        "quote": "Technology is only powerful when people know how to use it safely and effectively."
       },
       "cooperation": {
-        "title": "Cultural Programs",
-        "description": "Connecting Parsi youth with their heritage through educational programs, community events, and intergenerational mentorship. Supporting Zoroastrian studies at universities worldwide.",
-        "quote": "Our culture is our strength. We build bridges between generations and across continents."
+        "title": "Secure Communications",
+        "description": "Encrypted messaging platforms, VPN access, and privacy tools that protect users from surveillance. Safe communication is essential for journalists, activists, and ordinary citizens alike.",
+        "quote": "Privacy is not about having something to hide. It's about having the freedom to think and speak."
       },
       "prosperity": {
-        "title": "Global Outreach",
-        "description": "Serving Parsi communities in India, the Americas, Europe, Australia, and beyond. Our programs reach wherever Parsis live and thrive.",
-        "quote": "Wherever Parsis live, we are there to support education, heritage, and community wellbeing."
+        "title": "Educational Resources",
+        "description": "Online courses, scholarships, and educational content in Farsi. We translate and create resources that help Persians access global knowledge and opportunity.",
+        "quote": "Education opens doors. We ensure those doors are not locked by language or geography."
       },
       "identity": {
-        "title": "Research & Documentation",
-        "description": "Supporting academic research into Zoroastrian history, theology, and culture. Documenting oral histories and preserving manuscripts for future generations.",
-        "quote": "Understanding our past illuminates our path forward."
+        "title": "Technology Infrastructure",
+        "description": "Building and funding the technical infrastructure—servers, networks, tools—that makes all our other programs possible. Sustainable technology access requires sustainable infrastructure.",
+        "quote": "We don't just provide fish. We build fishing rods and teach people to fish."
       }
     }
   },
   "works": {
     "title": "Programs",
     "headline": "Our Programs & Impact",
-    "subtitle": "Direct support for Parsi Zoroastrian communities worldwide through education, heritage preservation, health, and cultural programs.",
+    "subtitle": "Direct support for Persian communities worldwide through technology access, media infrastructure, AI tools, and digital education.",
     "keyAchievements": "Program Areas",
     "selectedExhibitions": "Current Initiatives",
-    "exhibitionsSubtitle": "Active programs serving the global Parsi community",
-    "philosophyQuote": "Good thoughts, good words, good deeds—ancient wisdom guiding modern impact for Parsi communities worldwide.",
+    "exhibitionsSubtitle": "Active programs serving the global Persian community",
+    "philosophyQuote": "Technology should empower, not exclude. We build bridges to ensure every Persian can access the digital world.",
     "disciplines": {
       "visualArts": {
-        "title": "Scholarships",
-        "description": "Merit-based scholarships for Parsi students pursuing academic excellence in universities worldwide.",
+        "title": "VPN & Access Tools",
+        "description": "Infrastructure helping Persians bypass censorship and access the open internet safely and reliably.",
         "achievements": [
-          "STEM scholarships for undergraduate and graduate students",
-          "Arts and humanities fellowships",
-          "Persian and Zoroastrian studies grants",
-          "Leadership development programs"
+          "High-speed VPN servers optimized for Iran",
+          "Anti-censorship circumvention tools",
+          "Mobile apps for iOS and Android",
+          "24/7 technical support in Farsi"
         ]
       },
       "technology": {
-        "title": "Fire Temple Support",
-        "description": "Preservation grants for Agiaries and Atash Behrams, supporting sacred fire maintenance and facility improvements.",
+        "title": "AI Assistants",
+        "description": "Free access to AI tools for education, translation, writing assistance, and productivity.",
         "achievements": [
-          "Restoration grants for historic fire temples",
-          "Operational support for community Agiaries",
-          "Training programs for Mobeds (priests)",
-          "Sacred fire preservation initiatives"
+          "Farsi-optimized AI assistants",
+          "Translation tools for education and work",
+          "AI tutoring for students",
+          "Accessibility tools for disabled users"
         ]
       },
       "investment": {
-        "title": "Language Programs",
-        "description": "Preserving Avestan, Gujarati, and Persian language skills through educational programs and resources.",
+        "title": "Media Infrastructure",
+        "description": "Supporting independent Persian-language media with technology, training, and distribution.",
         "achievements": [
-          "Avestan language courses",
-          "Gujarati preservation programs",
-          "Digital learning resources",
-          "Teacher training initiatives"
+          "Satellite and internet broadcasting support",
+          "Journalist safety and security training",
+          "Content distribution networks",
+          "Archive and preservation systems"
         ]
       },
       "writing": {
-        "title": "Health & Wellness",
-        "description": "Community health clinics, elder care, and wellness programs serving Parsi populations.",
+        "title": "Digital Education",
+        "description": "Training programs teaching technology skills from basic literacy to advanced development.",
         "achievements": [
-          "Community health clinics",
-          "Elder care and assisted living support",
-          "Women's health initiatives",
-          "Mental health and counseling services"
+          "Online courses in Farsi",
+          "AI literacy programs",
+          "Cybersecurity training",
+          "Programming and tech skills"
         ]
       },
       "screen": {
-        "title": "Cultural Events",
-        "description": "Supporting Nowruz celebrations, Navjote ceremonies, and community gatherings worldwide.",
+        "title": "Secure Messaging",
+        "description": "Encrypted communication platforms protecting privacy for journalists, activists, and citizens.",
         "achievements": [
-          "Nowruz festival sponsorship",
-          "Navjote ceremony support",
-          "Community gathering grants",
-          "Youth cultural programs"
+          "End-to-end encrypted messaging",
+          "Secure voice and video calls",
+          "Anonymous tip lines for journalists",
+          "Digital security training"
         ]
       },
       "sculpture": {
-        "title": "Youth Programs",
-        "description": "Connecting young Parsis with their heritage through camps, mentorship, and educational experiences.",
+        "title": "Scholarships",
+        "description": "Supporting Persian students pursuing technology, engineering, and media studies worldwide.",
         "achievements": [
-          "Summer heritage camps",
-          "Intergenerational mentorship",
-          "College preparation support",
-          "Career networking events"
+          "STEM scholarships for university students",
+          "Coding bootcamp sponsorships",
+          "Media and journalism fellowships",
+          "Research grants"
         ]
       }
     },
@@ -206,29 +206,29 @@
       "privateExhibition": "Active Program",
       "artDubai": "Partner Organization",
       "groupExhibition": "Community Initiative",
-      "sothebysAuction": "Featured Grant",
+      "sothebysAuction": "Featured Project",
       "privateCollection": "Ongoing Support"
     }
   },
   "family": {
     "title": "Leadership",
     "headline": "Our Leadership",
-    "subtitle": "Parsis Foundation is led by the Pahlavi family, with a deep commitment to preserving Zoroastrian heritage and supporting the global Parsi community.",
+    "subtitle": "Parsis Foundation is led by the Pahlavi family, with deep commitment to ensuring Persians worldwide have access to technology, media, and information.",
     "royalFamily": "Foundation Leadership",
     "dedicatedToService": "Dedicated to Service",
-    "familyQuote": "Our foundation's success is measured by the students we educate, the heritage we preserve, and the communities we strengthen.",
+    "familyQuote": "Our success is measured by the barriers we break—every Persian who gains access to free information and modern technology is a victory for human potential.",
     "centuryOfProgress": "Our Journey",
     "centurySubtitle": "Key moments in the foundation's development",
     "enduringValues": "Our Commitment",
-    "valuesSubtitle": "Excellence, heritage, and service guide every decision.",
-    "service": "Heritage",
-    "serviceDesc": "Preserving Zoroastrian traditions for future generations",
-    "dignity": "Education",
-    "dignityDesc": "Empowering the next generation of Parsi leaders",
-    "unity": "Community",
-    "unityDesc": "Strengthening bonds across the global diaspora",
+    "valuesSubtitle": "Technology access, information freedom, and digital empowerment guide every decision.",
+    "service": "Access",
+    "serviceDesc": "Breaking barriers to technology and information",
+    "dignity": "Privacy",
+    "dignityDesc": "Protecting digital rights and secure communications",
+    "unity": "Education",
+    "unityDesc": "Building digital literacy across the diaspora",
     "continuingLegacy": "Get Involved",
-    "continuingLegacyText": "Partner with us to support the global Parsi community through education, heritage preservation, and community programs.",
+    "continuingLegacyText": "Partner with us to expand technology access, media freedom, and digital education for Persians worldwide.",
     "ourMission": "Our Mission",
     "currentInitiatives": "Current Programs",
     "members": {
@@ -237,63 +237,63 @@
         "title": "Managing Director",
         "years": "Executive Leadership",
         "relation": "Leadership",
-        "description": "Leads foundation strategy and operations. Entrepreneur and technologist with expertise in privacy technology, applied cryptography, and philanthropic investment."
+        "description": "Leads foundation strategy and operations. Entrepreneur and technologist with expertise in privacy technology, applied cryptography, and media infrastructure."
       },
       "mohammadReza": {
-        "name": "Advisory Council",
-        "title": "Strategic Guidance",
-        "years": "Heritage & Education",
+        "name": "Technology Council",
+        "title": "Technical Direction",
+        "years": "Technology",
         "relation": "Advisory",
-        "description": "Community leaders and scholars providing guidance on heritage preservation, educational programs, and community initiatives."
+        "description": "Engineers and technologists providing guidance on infrastructure, security, and platform development."
       },
       "crownPrince": {
         "name": "Program Committee",
         "title": "Program Oversight",
         "years": "Programs",
         "relation": "Advisory",
-        "description": "Experts guiding scholarship selection, heritage grants, and program development to ensure maximum community impact."
+        "description": "Experts guiding media access, educational programs, and community initiatives to ensure maximum impact."
       },
       "farah": {
         "name": "Community Partners",
         "title": "Global Network",
         "years": "Outreach",
         "relation": "Partners",
-        "description": "Parsi associations, fire temples, and community organizations worldwide partnering to deliver programs effectively."
+        "description": "Media organizations, technology companies, and human rights groups partnering to deliver programs effectively."
       }
     },
     "milestones": {
       "founding": {
         "year": "2024",
         "title": "Foundation Established",
-        "description": "Parsis Foundation established by the Pahlavi family to support the global Parsi community."
+        "description": "Parsis Foundation established by the Pahlavi family to support technology access for the global Persian community."
       },
       "whiteRevolution": {
         "year": "2025",
-        "title": "First Scholarships Awarded",
-        "description": "Initial scholarship grants to Parsi students in STEM and cultural studies programs."
+        "title": "VPN Infrastructure Launch",
+        "description": "High-speed VPN and circumvention tools deployed to help Persians access the open internet."
       },
       "celebration": {
         "year": "2025",
-        "title": "Heritage Program Launch",
-        "description": "First fire temple preservation grants and language program funding distributed."
+        "title": "AI Tools Program",
+        "description": "Free AI assistants and educational technology made available to Persian users worldwide."
       },
       "present": {
         "year": "Present",
         "title": "Growing Impact",
-        "description": "Expanding programs to serve Parsi communities in India, North America, Europe, and beyond."
+        "description": "Expanding programs to reach more Persians with technology access, media tools, and digital education."
       }
     }
   },
   "news": {
     "title": "News",
     "headline": "Foundation News",
-    "subtitle": "Updates on scholarships, grants, and community programs",
+    "subtitle": "Updates on technology access, media programs, and community initiatives",
     "readMore": "Read More",
     "categories": {
-      "humanitarian": "Scholarships",
-      "culture": "Heritage",
+      "humanitarian": "Technology",
+      "culture": "Media",
       "technology": "Programs",
-      "education": "Community",
+      "education": "Education",
       "address": "Announcement"
     }
   },
@@ -320,7 +320,7 @@
     "contact": "Contact",
     "copyright": "All rights reserved.",
     "memberOf": "House of Pahlavi",
-    "tagline": "Supporting education, heritage, and community for the global Parsi diaspora."
+    "tagline": "Empowering Persians with technology, media access, and digital freedom."
   },
   "language": {
     "en": "English",
