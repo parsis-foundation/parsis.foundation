@@ -1,5 +1,6 @@
 'use client';
 
+import Image from 'next/image';
 import { Quote, Crown, History, Heart, Globe } from 'lucide-react';
 import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
@@ -47,19 +48,39 @@ export function FamilyContent() {
             </h2>
           </div>
           <div className="grid gap-8 md:grid-cols-2">
-            {memberKeys.map((key) => {
+            {memberKeys.map((key, index) => {
               const member = t.family.members[key];
+              const isLeader = index === 0;
               return (
                 <div
                   key={key}
-                  className={cn("rounded-xl border border-white/10 bg-black p-8", isRTL && "text-right")}
+                  className={cn(
+                    "rounded-xl border border-white/10 bg-black p-8",
+                    isLeader && "md:col-span-2 md:flex md:gap-8 md:items-start",
+                    isRTL && "text-right"
+                  )}
                 >
-                  <p className="text-xs font-semibold uppercase tracking-wider text-gold">
-                    {member.relation}
-                  </p>
-                  <h3 className="mt-4 font-serif text-2xl text-white">{member.name}</h3>
-                  <p className="mt-1 text-sm text-neutral-500">{member.title} &middot; {member.years}</p>
-                  <p className="mt-4 text-neutral-400">{member.description}</p>
+                  {isLeader && (
+                    <div className="mb-6 md:mb-0 md:flex-shrink-0">
+                      <div className="w-32 h-40 md:w-40 md:h-52 overflow-hidden rounded-lg border border-gold/20 mx-auto md:mx-0">
+                        <Image
+                          src="/images/cyrus-pahlavi.jpg"
+                          alt={member.name}
+                          width={160}
+                          height={208}
+                          className="h-full w-full object-cover"
+                        />
+                      </div>
+                    </div>
+                  )}
+                  <div className={isLeader ? "md:flex-1" : ""}>
+                    <p className="text-xs font-semibold uppercase tracking-wider text-gold">
+                      {member.relation}
+                    </p>
+                    <h3 className="mt-4 font-serif text-2xl text-white">{member.name}</h3>
+                    <p className="mt-1 text-sm text-neutral-500">{member.title} &middot; {member.years}</p>
+                    <p className="mt-4 text-neutral-400">{member.description}</p>
+                  </div>
                 </div>
               );
             })}

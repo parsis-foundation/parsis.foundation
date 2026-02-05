@@ -233,25 +233,25 @@
     "currentInitiatives": "Current Programs",
     "members": {
       "rezaShah": {
+        "name": "Cyrus Pahlavi",
+        "title": "Managing Director",
+        "years": "Executive Leadership",
+        "relation": "Leadership",
+        "description": "Leads foundation strategy and operations. Entrepreneur and technologist with expertise in privacy technology, applied cryptography, and philanthropic investment."
+      },
+      "mohammadReza": {
         "name": "Board of Directors",
         "title": "Independent Governance",
         "years": "Oversight & Strategy",
         "relation": "Governance",
         "description": "Three or more independent directors providing oversight, strategic direction, and fiduciary responsibility for foundation operations."
       },
-      "mohammadReza": {
+      "crownPrince": {
         "name": "Program Committee",
         "title": "Program Oversight",
         "years": "Education & Heritage",
         "relation": "Advisory",
         "description": "Community leaders and educators guiding scholarship selection, heritage grants, and program development."
-      },
-      "crownPrince": {
-        "name": "Finance Committee",
-        "title": "Financial Oversight",
-        "years": "Compliance",
-        "relation": "Advisory",
-        "description": "Financial professionals ensuring proper stewardship, IRS compliance, and transparent reporting of all funds."
       },
       "farah": {
         "name": "Community Advisory",
