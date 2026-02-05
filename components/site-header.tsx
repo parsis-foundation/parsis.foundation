@@ -50,15 +50,16 @@ export function SiteHeader() {
       <header className="sticky top-0 z-50 border-b border-white/10 bg-black/95 backdrop-blur-xl">
         <div className={cn("container flex items-center justify-between gap-6 py-4", isRTL && "flex-row-reverse")}>
           {/* Logo */}
-          <Link href="/" className="flex-shrink-0">
+          <Link href="/" className="flex-shrink-0 flex items-center gap-3">
             <Image
-              src="/cyrus-signature.png"
+              src="/images/official-seal.png"
               alt={t.site.name}
-              width={140}
-              height={38}
-              className="signature-logo"
+              width={40}
+              height={40}
+              className="rounded-full"
               priority
             />
+            <span className="font-serif text-lg text-white hidden sm:block">{t.site.name}</span>
           </Link>
 
           {/* Desktop Nav */}
