@@ -17,9 +17,11 @@ import {
 } from 'lucide-react';
 
 export const site = {
-  title: 'Cyrus Pahlavi',
+  title: 'Parsis Foundation',
   description:
-    'Artist, humanitarian, and technologist. Painting, civic initiatives, and privacy-preserving technology.',
+    'Connecting Persians to Technology, Media & Opportunity. A family foundation of the House of Pahlavi.',
+  url: 'https://parsis.foundation',
+  image: '/images/official-seal.png',
 };
 
 export const navItems = [
