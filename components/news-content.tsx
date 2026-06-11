@@ -137,7 +137,7 @@ export function NewsContent() {
                 ? 'برای استعلام‌های مطبوعاتی، درخواست مصاحبه یا اعتبارنامه رسانه‌ای، لطفاً تماس بگیرید:'
                 : 'For press inquiries, interview requests, or media credentials, please contact:'}
             </p>
-            <p className="mt-4 font-semibold text-gold">press@cyruspahlavi.com</p>
+            <p className="mt-4 font-semibold text-gold">press@parsis.foundation</p>
           </div>
         </div>
       </section>

@@ -31,9 +31,9 @@ export const navItems = [
 ];
 
 export const contactEmails = [
-  { label: 'Official Correspondence', value: 'office@cyruspahlavi.com' },
-  { label: 'Press Inquiries', value: 'press@cyruspahlavi.com' },
-  { label: 'Government Liaison', value: 'gov@cyruspahlavi.com' },
+  { label: 'Official Correspondence', value: 'office@parsis.foundation' },
+  { label: 'Press Inquiries', value: 'press@parsis.foundation' },
+  { label: 'Government Liaison', value: 'gov@parsis.foundation' },
 ];
 
 export const officialAddress = [

@@ -22,7 +22,7 @@ export async function generateMetadata({
   }
 
   return {
-    title: `${article.titleEn} | Cyrus Pahlavi`,
+    title: `${article.titleEn} | Parsis Foundation`,
     description: article.excerptEn,
     openGraph: {
       title: article.titleEn,

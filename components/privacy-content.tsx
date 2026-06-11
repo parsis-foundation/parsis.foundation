@@ -16,8 +16,8 @@ export function PrivacyContent() {
     {
       titleEn: 'Email Communications',
       titleFa: 'ارتباطات ایمیلی',
-      contentEn: 'If you contact us through our official email addresses (office@cyruspahlavi.com, press@cyruspahlavi.com, gov@cyruspahlavi.com), we may retain your email for official record-keeping purposes.',
-      contentFa: 'اگر از طریق آدرس‌های ایمیل رسمی ما (office@cyruspahlavi.com، press@cyruspahlavi.com، gov@cyruspahlavi.com) با ما تماس بگیرید، ممکن است ایمیل شما را برای اهداف نگهداری سوابق رسمی حفظ کنیم.',
+      contentEn: 'If you contact us through our official email addresses (office@parsis.foundation, press@parsis.foundation, gov@parsis.foundation), we may retain your email for official record-keeping purposes.',
+      contentFa: 'اگر از طریق آدرس‌های ایمیل رسمی ما (office@parsis.foundation، press@parsis.foundation، gov@parsis.foundation) با ما تماس بگیرید، ممکن است ایمیل شما را برای اهداف نگهداری سوابق رسمی حفظ کنیم.',
     },
     {
       titleEn: 'Website Analytics',
@@ -42,7 +42,7 @@ export function PrivacyContent() {
       titleFa: 'تماس',
       contentEn: 'Questions about this privacy policy can be directed to:',
       contentFa: 'سوالات در مورد این سیاست حریم خصوصی را می‌توانید به آدرس زیر ارسال کنید:',
-      email: 'office@cyruspahlavi.com',
+      email: 'office@parsis.foundation',
     },
     {
       titleEn: 'Updates',
@@ -65,8 +65,8 @@ export function PrivacyContent() {
             </h1>
             <p className="mt-6 max-w-3xl text-lg text-neutral-400">
               {locale === 'fa'
-                ? 'نحوه محافظت و رسیدگی به اطلاعات در cyruspahlavi.com.'
-                : 'How we protect and handle information on cyruspahlavi.com.'}
+                ? 'نحوه محافظت و رسیدگی به اطلاعات در parsis.foundation.'
+                : 'How we protect and handle information on parsis.foundation.'}
             </p>
           </div>
         </div>

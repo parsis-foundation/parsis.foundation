@@ -102,14 +102,14 @@ export function SiteFooter() {
                 {t.footer.connect}
               </h4>
               <a
-                href="mailto:office@cyruspahlavi.com"
+                href="mailto:office@parsis.foundation"
                 className={cn(
                   "mt-4 inline-flex items-center gap-2 text-sm text-neutral-400 transition-colors hover:text-gold",
                   isRTL && "flex-row-reverse"
                 )}
               >
                 <Mail size={14} />
-                office@cyruspahlavi.com
+                office@parsis.foundation
               </a>
               {/* Social Links */}
               <div className={cn(

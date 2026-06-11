@@ -2,10 +2,10 @@ import type { Metadata } from 'next';
 import { NewsContent } from '@/components/news-content';
 
 export const metadata: Metadata = {
-  title: 'News & Press Room | Cyrus Pahlavi',
+  title: 'News & Press Room | Parsis Foundation',
   description: 'Official statements, announcements, and updates on initiatives, investments, and events.',
   openGraph: {
-    title: 'News & Press Room | Cyrus Pahlavi',
+    title: 'News & Press Room | Parsis Foundation',
     description: 'Official statements, announcements, and updates on initiatives, investments, and events.',
   },
 };

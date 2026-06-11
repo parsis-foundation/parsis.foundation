@@ -7,9 +7,9 @@ export function ContactContent() {
   const { t, isRTL } = useI18n();
 
   const contactEmails = [
-    { labelEn: 'Official Correspondence', labelFa: 'مکاتبات رسمی', value: 'office@cyruspahlavi.com' },
-    { labelEn: 'Press Inquiries', labelFa: 'استعلام‌های مطبوعاتی', value: 'press@cyruspahlavi.com' },
-    { labelEn: 'Government Liaison', labelFa: 'رابط دولتی', value: 'gov@cyruspahlavi.com' },
+    { labelEn: 'Official Correspondence', labelFa: 'مکاتبات رسمی', value: 'office@parsis.foundation' },
+    { labelEn: 'Press Inquiries', labelFa: 'استعلام‌های مطبوعاتی', value: 'press@parsis.foundation' },
+    { labelEn: 'Government Liaison', labelFa: 'رابط دولتی', value: 'gov@parsis.foundation' },
   ];
 
   const officialAddress = [
@@ -53,7 +53,7 @@ export function ContactContent() {
               <p className="text-xs font-semibold uppercase tracking-[0.2em] text-gold">
                 {t.contact.officialWebsite}
               </p>
-              <p className="mt-4 text-lg font-medium text-white">cyruspahlavi.com</p>
+              <p className="mt-4 text-lg font-medium text-white">parsis.foundation</p>
             </div>
             <div className={cn(
               "rounded-xl border border-white/10 bg-black p-6",

@@ -10,10 +10,13 @@
   --muted-foreground: 228 14% 70%;
   --border: 230 18% 20%;
   --input: 230 18% 20%;
-  --ring: 45 64% 50%;
+  --ring: 200 100% 50%;
   --gold: 45 64% 50%;
   --gold-light: 45 74% 60%;
   --gold-dark: 45 54% 40%;
+  --accent: 200 100% 50%;
+  --accent-light: 200 100% 60%;
+  --accent-dark: 200 100% 40%;
   --radius: 14px;
   --font-sans: var(--font-geist-sans), "Geist", system-ui, sans-serif;
   --font-serif: "Iowan Old Style", "Palatino", "Garamond", "Times New Roman", serif;
@@ -47,7 +50,7 @@ body::before {
   content: "";
   position: fixed;
   inset: 0;
-  background: radial-gradient(circle at 20% 10%, rgba(201, 162, 39, 0.12), transparent 45%),
+  background: radial-gradient(circle at 20% 10%, rgba(0, 171, 255, 0.12), transparent 45%),
     radial-gradient(circle at 80% 20%, rgba(255, 255, 255, 0.05), transparent 40%);
   opacity: 0.9;
   pointer-events: none;
@@ -55,7 +58,7 @@ body::before {
 }
 
 .light body::before {
-  background: radial-gradient(circle at 20% 10%, rgba(201, 162, 39, 0.08), transparent 45%),
+  background: radial-gradient(circle at 20% 10%, rgba(0, 171, 255, 0.08), transparent 45%),
     radial-gradient(circle at 80% 20%, rgba(0, 0, 0, 0.03), transparent 40%);
 }
 
@@ -82,7 +85,7 @@ body::before {
 }
 
 ::selection {
-  background: rgba(201, 162, 39, 0.3);
+  background: rgba(0, 171, 255, 0.3);
 }
 
 a {

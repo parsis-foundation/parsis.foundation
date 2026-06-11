@@ -10,8 +10,8 @@ export function TermsContent() {
     {
       titleEn: 'Acceptance',
       titleFa: 'پذیرش',
-      contentEn: 'By accessing and using cyruspahlavi.com, you acknowledge and agree to these terms of service.',
-      contentFa: 'با دسترسی و استفاده از cyruspahlavi.com، شما این شرایط خدمات را تأیید و می‌پذیرید.',
+      contentEn: 'By accessing and using parsis.foundation, you acknowledge and agree to these terms of service.',
+      contentFa: 'با دسترسی و استفاده از parsis.foundation، شما این شرایط خدمات را تأیید و می‌پذیرید.',
     },
     {
       titleEn: 'Official Nature',
@@ -62,8 +62,8 @@ export function TermsContent() {
     {
       titleEn: 'Official Documents',
       titleFa: 'اسناد رسمی',
-      contentEn: 'Official documents are provided for public information. Redistribution should maintain reference numbers and attribution to cyruspahlavi.com.',
-      contentFa: 'اسناد رسمی برای اطلاع عمومی ارائه شده‌اند. توزیع مجدد باید شماره‌های مرجع و ارجاع به cyruspahlavi.com را حفظ کند.',
+      contentEn: 'Official documents are provided for public information. Redistribution should maintain reference numbers and attribution to parsis.foundation.',
+      contentFa: 'اسناد رسمی برای اطلاع عمومی ارائه شده‌اند. توزیع مجدد باید شماره‌های مرجع و ارجاع به parsis.foundation را حفظ کند.',
     },
     {
       titleEn: 'Disclaimer',
@@ -88,7 +88,7 @@ export function TermsContent() {
       titleFa: 'تماس',
       contentEn: 'Questions about these terms can be directed to:',
       contentFa: 'سوالات در مورد این شرایط را می‌توانید به آدرس زیر ارسال کنید:',
-      email: 'office@cyruspahlavi.com',
+      email: 'office@parsis.foundation',
     },
   ];
 
@@ -105,8 +105,8 @@ export function TermsContent() {
             </h1>
             <p className="mt-6 max-w-3xl text-lg text-neutral-400">
               {locale === 'fa'
-                ? 'شرایط حاکم بر استفاده از cyruspahlavi.com.'
-                : 'Terms governing use of cyruspahlavi.com.'}
+                ? 'شرایط حاکم بر استفاده از parsis.foundation.'
+                : 'Terms governing use of parsis.foundation.'}
             </p>
           </div>
         </div>
